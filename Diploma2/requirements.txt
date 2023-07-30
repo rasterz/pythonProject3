@@ -1,0 +1,7 @@
+django==4.2.2
+envparse==0.2.0
+psycopg2-binary==2.9.6
+djangorestframework==3.14.0
+markdown==3.4.3
+django-filter==23.2
+social-auth-app-django==5.2.0
